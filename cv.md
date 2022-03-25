@@ -63,7 +63,7 @@ HTML and CSS only.
 
 [Link for GitHub Pages](https://justinasokolova.github.io/GB-StoreWebsite/)
 
-![preview](/img/demo.jpeg "screenshot of the page")
+![preview](img/demo.jpeg "screenshot of the page")
 
 ### Education
 
