@@ -69,3 +69,8 @@ HTML and CSS only.
 - GeekBrains University, "Frontend Development"
 
 ---
+
+#### Languages
+
+- Russian - Native
+- English - Pre-Intermediate (in the process of raising the level)
