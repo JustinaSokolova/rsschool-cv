@@ -16,8 +16,6 @@
 
 My acquaintance with frontend development happened about a year ago. And from the first steps I really fell in love with it. I really like to make up websites and immediately see the result. I have also always loved solving logic tasks, and I am very inspired by working in a team.
 
-At first I studied by myself, using textbooks and available information from the Internet. When that wasn't enough, I went to study at the GeekBrains online University at the Frontend Development department. After six months of studying, I wanted to expand my skills in JavaScript practice. And by a lucky chance I came across the RS School.
-
 My immediate goals are to deepen and consolidate my knowledge in this area and get a job in the second half of 2022. And in the future I plan to realize my full potential in this profession.
 
 ---
@@ -29,7 +27,7 @@ My immediate goals are to deepen and consolidate my knowledge in this area and g
 - BEM methodology
 - Bootstrap
 - JavaScript, DOM
-- Gulp, Webpack
+- Parcel, Webpack
 - Git, GitHub
 - Figma
 
